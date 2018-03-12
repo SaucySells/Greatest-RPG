@@ -13,6 +13,6 @@ Here's a gif of the hero opening a chest:
 
 ![Alt Text](https://i.gyazo.com/9a5badaf88b7cc67bdb688118e9d5d0a.gif)
 
-To run this game, you'll need to have a Oython compiler and the Pygame library installed. [Here's a link to the Pygame Website with Instructions](https://www.pygame.org/wiki/GettingStarted)
+To run this game, you'll need to have a Python compiler and the Pygame library installed. [Here's a link to the Pygame Website with Instructions](https://www.pygame.org/wiki/GettingStarted)
 
 Thank you for looking at my program!
